@@ -1,0 +1,2 @@
+place a square over the top of them, same colour as background
+opaque, inherit smoothness property from albedo, or whatever it was. easy done.

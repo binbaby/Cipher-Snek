@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 260cd9d80d75cd94f8441e9d82eb5c95
+timeCreated: 1512180660
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ElroNet Monospace
+  fontNames:
+  - ElroNet Monospace
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
